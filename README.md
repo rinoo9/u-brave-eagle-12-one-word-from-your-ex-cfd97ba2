@@ -4,4 +4,4 @@
 
 # One Word From Your Ex
 
-One-word entry for the make.fun bounty "One Word From Your Ex". The program `main.py` writes exactly one word to `/output/entry.txt` — "Almost", the single word an ex would use to describe you: not an insult, a verdict — almost the one, almost ready, almost enough.
+One-word entry for the make.fun bounty "One Word From Your Ex". The program `main.py` writes exactly one word to `/output/entry.txt` — "Expired", the single word an ex would use to describe you: not an insult, a sell-by date — the relationship quietly passed its date, like milk in the fridge. (Round 1 entry was "Almost".)

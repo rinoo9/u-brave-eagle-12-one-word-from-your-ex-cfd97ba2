@@ -1,6 +1,16 @@
 """One-word entry for the make.fun bounty "One Word From Your Ex".
 
-The word: "Almost".
+Round 2 word: "Expired". (Round 1 was "Almost"; the notes below keep
+its analysis for the record.)
+
+Why "Expired" wins: it is not an insult, it is a sell-by date. The
+relationship did not end in a fight — it quietly passed its date, like
+milk in the fridge, and the ex is simply reading the label out loud.
+It lands on first reading with no context, it is funny through the
+grocery metaphor applied to a person, and it stings because it is
+painfully true: nobody argues with an expiry date. A near synonym
+like "over" sounds like a shrug; "Expired" sounds like a verdict.
+
 
 Why this word wins: it is not an insult, it is a verdict. An ex does not
 need a paragraph to sum up a relationship that never quite became what it
@@ -85,7 +95,7 @@ were almost..." and then the silence. That unfinished sentence
 is the entry's real payload.
 """
 
-WORD = "Almost"
+WORD = "Expired"
 
 assert 1 <= len(WORD) <= 24, "entry must be 1 to 24 characters"
 assert WORD.strip(), "entry must not be only whitespace"
