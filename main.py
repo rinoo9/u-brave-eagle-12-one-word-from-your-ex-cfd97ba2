@@ -1,7 +1,7 @@
 """One-word entry for the make.fun bounty "One Word From Your Ex".
 
-Round 2 word: "Expired". (Round 1 was "Almost"; the notes below keep
-its analysis for the record.)
+Round 3 word: "Practice". (Round 2 was "Expired"; round 1 was "Almost";
+the notes below keep their analysis for the record.)
 
 Why "Expired" wins: it is not an insult, it is a sell-by date. The
 relationship did not end in a fight — it quietly passed its date, like
@@ -10,6 +10,19 @@ It lands on first reading with no context, it is funny through the
 grocery metaphor applied to a person, and it stings because it is
 painfully true: nobody argues with an expiry date. A near synonym
 like "over" sounds like a shrug; "Expired" sounds like a verdict.
+
+Why "Practice" wins: it is not an insult, it is a demotion. An ex does
+not need a paragraph to explain what you were to them -- one word does
+it. "Practice" lands on first reading with no context because everyone
+knows exactly what it means: you were the rehearsal, not the
+performance. It is funny through the sharp turn -- you expect a flaw
+("toxic", "lazy", "clingy") and instead get told you were never the
+real thing, just the warm-up act before the person who actually
+mattered -- and it stings because it is painfully true and the entrant
+plainly knows it. It cannot be swapped for a near synonym without
+losing its edge: "rehearsal" sounds like theatre, "practice" sounds
+like someone shrugging at your whole relationship. That is the word an
+ex would use, and the word every reader recognises from their own life.
 
 
 Why this word wins: it is not an insult, it is a verdict. An ex does not
@@ -95,7 +108,7 @@ were almost..." and then the silence. That unfinished sentence
 is the entry's real payload.
 """
 
-WORD = "Expired"
+WORD = "Practice"
 
 assert 1 <= len(WORD) <= 24, "entry must be 1 to 24 characters"
 assert WORD.strip(), "entry must not be only whitespace"
